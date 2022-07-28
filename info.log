@@ -1,0 +1,9 @@
+2022-07-20 18:21:23,154 - kedro_telemetry.plugin - INFO - You have opted into product usage analytics.
+2022-07-20 18:21:47,724 - kedro_telemetry.plugin - INFO - You have opted into product usage analytics.
+2022-07-20 18:21:48,690 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-20 18:24:04,784 - kedro_telemetry.plugin - INFO - You have opted into product usage analytics.
+2022-07-20 18:24:05,786 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-20 18:25:00,726 - kedro_telemetry.plugin - INFO - You have opted into product usage analytics.
+2022-07-20 18:25:01,700 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-20 18:25:27,477 - kedro_telemetry.plugin - INFO - You have opted into product usage analytics.
+2022-07-20 18:25:28,600 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
